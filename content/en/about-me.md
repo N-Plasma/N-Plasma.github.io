@@ -23,8 +23,8 @@ I only really have 4 Projects
 - NStarOS - No Expanded name, a CC:T program intended to be a simple OS. Status : Cancelled (i may continue developing this, but its nowhere near my main priority)
 
   
-- I-Like-Arch-Cord- - No Expanded name, a Discord bot forked from TheGamerInMyBasements with plans to make a modular command system (with cogs&extensions) and possibly integrate UDAADB into it
+- I-Like-Arch-Cord- - No Expanded name, a Discord bot forked from TheGamerInMyBasements with plans to make a modular command system (with cogs&extensions) and possibly integrate UDAADB into it. Status : Currently working on
 
   
-- Multiplatform Encryption/Decryption (Tests) - Code that turns strings into ascii, multiplies them by a key to encrypt, divide by a key and turn back to a string, currently the Python version works mostly, the B3D version is unfinished, and i have yet to start the LUA version
+- Multiplatform Encryption/Decryption (Tests) - Code that turns strings into ascii, multiplies them by a key to encrypt, divide by a key and turn back to a string, currently the Python version works mostly, the B3D version is unfinished, and i have yet to start the LUA version. Status : On Hold (until ILAC is in a good spot)
 
