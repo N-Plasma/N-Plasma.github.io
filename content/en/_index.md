@@ -5,6 +5,8 @@ sidebar:
   open: false
   exclude: false
 weight: 0
+filename: home
+description: Main Page
 ---
 Welcome to my useless wiki, theres almost no reason to be here if your a sane person
 
