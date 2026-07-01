@@ -4,6 +4,8 @@ title: My Site
 enableGitInfo: true
 enableRobotsTXT: true
 
+baseURL: "https://N-Plasma.github.io/"
+
 # import hextra as module
 module:
   imports:
