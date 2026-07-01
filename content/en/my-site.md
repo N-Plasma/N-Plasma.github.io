@@ -5,5 +5,5 @@ weight: 0
 sidebar:
   open: true
   exclude: false
-filename: _index
+filename: _index.md
 ---
