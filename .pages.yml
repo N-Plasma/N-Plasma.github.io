@@ -10,6 +10,42 @@ content:
     label: English (EN)
     type: group
     items:
+    - name: landing
+      label: Landing Page
+      type: file
+      path: content/en/_index.md
+      fields:
+        - { name: title, label: Title, type: string, required: true }
+        - { name: description, label: Description, type: string }
+        - name: params
+          label: Parameters
+          type: object
+          fields:
+            - name: images
+              label: Cover Images
+              list: true
+              type: image
+        - name: body
+          label: Body
+          type: rich-text
+          options:
+            #media: content_images
+            #path: public/images/blog
+            rename: true
+        - name: sidebar
+          label: Sidebar Options
+          type: object
+          fields:
+            - name: open
+              label: Is open by default?
+              description: Only available for index pages!
+              type: boolean
+            - name: exclude
+              label: Should be excluded from the sidebar?
+              type: boolean
+        - name: toc
+          label: Table of Contents
+          type: boolean
     - name: glossary
       label: Glossary
       type: file
@@ -33,7 +69,7 @@ content:
     - name: wiki
       label: Wiki
       type: collection
-      path: content/en
+      path: content/en/wiki
       format: yaml-frontmatter
       filename: "{primary}.md"
       view:
@@ -41,7 +77,7 @@ content:
           - title
       fields:
         - { name: title, label: Title, type: string, required: true }
-        - { name: filename, label: Filename Override, type: string }
+        #- { name: filename, label: Filename Override, type: string }
         - { name: description, label: Description, type: string }
         - name: params
           label: Parameters
