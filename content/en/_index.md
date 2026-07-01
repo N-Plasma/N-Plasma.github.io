@@ -1,5 +1,5 @@
 ---
-title: _index
+title: Home Page
 toc: false
 sidebar:
   open: false
