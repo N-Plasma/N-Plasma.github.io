@@ -6,7 +6,7 @@ sidebar:
   exclude: false
 weight: 0
 filename: home
-description: Main Page
+description: uhhhh.... idk
 ---
 Welcome to my useless wiki, there is almost no reason to be here if your a sane person
 
