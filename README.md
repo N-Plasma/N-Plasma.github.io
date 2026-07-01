@@ -1,2 +1,2 @@
-Using imfings wiki template
-https://github.com/imfing/hextra-starter-template
+Using Amblelabs fork of imfings wiki template
+https://github.com/amblelabs/wiki-template
