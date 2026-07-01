@@ -11,19 +11,11 @@ My projects dont usually need documentation (im not really a practical coder) bu
 
 
 
-### Main Documentation (Things that need documentation to be used)
-
 {{< cards >}}
 
-  {{< card link="/documentation/usedocs/i-like-arch-cord" title="I-Like-Arch-Cord- Documentation" icon="book-open" >}}
+  {{< card link="/documentation/usedocs/usedoc_hub" title="Usage Documentation Hub (Documentation needed to set up / use the project, also has the projects development documentation)" icon="book-open" >}}
 
-{{< /cards >}}
-
-### Developer Documentation (Things that only need documentation for developers)
-
-{{< cards >}}
-
-  {{< card link="/documentation/devdocs/multiplatform-encryption-decryption" title="Multiplatform Encryption / Decryption Documentation" icon="book-open" >}}
+  {{< card link="/documentation/devdocs/devdoc_hub" title="Development Documentation Hub (Documentation only needed for developers)" icon="book-open" >}}
 
 {{< /cards >}}
 
