@@ -2,7 +2,7 @@
 title: Home Page
 toc: false
 sidebar:
-  open: false
+  open: true
   exclude: false
 weight: 0
 filename: home
