@@ -31,7 +31,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Contact ↗
-      url: "https://github.com/amblelabs"
+      url: "https://github.com/N-Plasma"
       weight: 3
     - name: Search
       weight: 4
@@ -39,7 +39,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/amblelabs/hextra-starter-template"
+      url: "https://github.com/N-Plasma/N-Plasma.github.io"
       params:
         icon: github
     - name: Theme Toggle
@@ -63,7 +63,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://app.pagescms.org/amblelabs/wiki-template/main/collection/wiki/edit/content"
+    base: "https://app.pagescms.org/n-plasma/n-plasma.github.io/main/collection/wiki"
     sep: "%2F"
 
   search:
@@ -73,14 +73,6 @@ params:
     flexsearch:
       # index page by: content | summary | heading | title
       index: content
-  
-  page:
-    contextMenu:
-      enable: true
-      links:
-        - name: Open in ChatGPT
-          icon: chatgpt
-          url: "https://chatgpt.com/?hints=search&q=I%27m+looking+at+this+documentation%3A+{url}%0AHelp+me+understand+how+to+use+it."
   
   imageZoom:
     enable: true
