@@ -10,6 +10,6 @@ Usage Documentation will have Usage & Development Documentation, if something is
 ### Usage Documentation
 
 {{< cards >}}
-{{< card link="/documentation/usedoc/i-like-arch-cord" title="ArchCord & ILAC fork" icon="book-open" >}}
+{{< card link="/documentation/usedoc/ac/ilac-ac-home" title="ArchCord & ILAC fork" icon="book-open" >}}
 {{< /cards >}}
 

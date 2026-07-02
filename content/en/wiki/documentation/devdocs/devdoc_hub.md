@@ -10,6 +10,6 @@ Development Documentation is for projects that either have no simple usage, is m
 ### Development Documentation
 
 {{< cards >}}  
-{{< card link="/documentation/devdoc/multiplatform-encryption-decryption" title="Multiplatform Encryption / Decryption" icon="book-open" >}}  
+{{< card link="/documentation/devdoc/m-ed/m-ed-home" title="Multiplatform Encryption / Decryption" icon="book-open" >}}  
 {{< /cards >}}
 
