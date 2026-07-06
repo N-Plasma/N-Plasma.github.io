@@ -4,7 +4,7 @@ title: My Site
 enableGitInfo: true
 enableRobotsTXT: true
 
-baseURL: "https://N-Plasma.github.io/"
+baseURL: "https://N-Plasma.github.io/wiki/"
 
 # import hextra as module
 module:
@@ -53,7 +53,7 @@ params:
 
   editURL:
     enable: false
-    base: "https://app.pagescms.org/n-plasma/n-plasma.github.io/main/collection/wiki"
+    base: "https://app.pagescms.org/n-plasma/wiki/main/collection/wiki"
     sep: "%2F"
 
   search:

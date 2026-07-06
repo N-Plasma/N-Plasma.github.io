@@ -13,6 +13,6 @@ Welcome to my useless Site, there is almost no reason to be here if your a sane 
 ### Notable Pages
 
 {{< cards >}}  
-  {{< card link="/wiki/documentation-homepage" title="Project Documentation" icon="book-open" >}}  
-  {{< card link="/wiki/about-me" title="About Me" icon="user" >}}
+  {{< card link="/documentation-homepage" title="Project Documentation" icon="book-open" >}}  
+  {{< card link="/about-me" title="About Me" icon="user" >}}
 {{< /cards >}}
